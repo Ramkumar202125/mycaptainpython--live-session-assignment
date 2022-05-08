@@ -35,10 +35,18 @@ print(d)
 d.sort()
 print(d)
 
+e=[1,2,3,4,5]
+x=e.copy()
+print(x)
 
+g=max(e)
+print(g)
+ 
+f=min(e)
+print(f)
 
-
-
+m= sum(e)
+print(m)
 
 
 
